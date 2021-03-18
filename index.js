@@ -10,7 +10,7 @@ module.exports = () => {
       date: faker.date.recent(),
       processedBillings: faker.random.number({min:0, max: 500}), 
       totalRunningBillings: faker.random.number({min: 500, max: 1000}),
-      batchBillingType: "Mensalidade",
+      batchBillingType: faker.helpers.randomize(["Mensalidade", "Anual"]),
     })
   }
   return data

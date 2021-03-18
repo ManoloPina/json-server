@@ -6,10 +6,10 @@ module.exports = () => {
   for (let i = 0; i < 20; i++) {
     data.batches.content.push({ 
       id: faker.random.uuid(), 
-      companyName: faker.company.companyName(),
+      companyName: faker.helpers.replaceSymbols("?#?#?"),
       date: faker.date.recent(),
-      processedBillings: faker.random.number({max: 100}), 
-      totalRunningBillings: faker.random.number({max: 1000}),
+      processedBillings: faker.random.number({min:0, max: 500}), 
+      totalRunningBillings: faker.random.number({min: 500, max: 1000}),
       batchBillingType: "Mensalidade",
     })
   }

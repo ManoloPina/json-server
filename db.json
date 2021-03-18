@@ -1,166 +1,168 @@
 {
-  "content": [
-    {
-      "id": "4c937949-53df-49ba-b565-78ae1c501224",
-      "companyName": "Mraz - Pacocha",
-      "date": "2021-03-18T13:48:49.905Z",
-      "processedBillings": 42,
-      "totalRunningBillings": 714,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "2efddcf6-bbda-4f6e-a67a-3628cfebee66",
-      "companyName": "Fahey LLC",
-      "date": "2021-03-18T00:43:08.730Z",
-      "processedBillings": 83,
-      "totalRunningBillings": 861,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "60c45e04-aeda-4b18-83b1-cc5986f18df4",
-      "companyName": "Padberg Group",
-      "date": "2021-03-18T20:43:40.388Z",
-      "processedBillings": 45,
-      "totalRunningBillings": 696,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "fd1aef48-b074-4505-9e77-dc365c011f25",
-      "companyName": "O'Reilly - Schaefer",
-      "date": "2021-03-18T20:13:07.971Z",
-      "processedBillings": 26,
-      "totalRunningBillings": 909,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "48593b06-ea2f-4a50-985e-fa42b72ad7fc",
-      "companyName": "Kshlerin - Baumbach",
-      "date": "2021-03-18T10:03:41.490Z",
-      "processedBillings": 93,
-      "totalRunningBillings": 213,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "35d1e3a2-c5c5-421d-9df3-92d82f18ec1e",
-      "companyName": "Schamberger, Olson and Cassin",
-      "date": "2021-03-18T15:00:13.601Z",
-      "processedBillings": 78,
-      "totalRunningBillings": 832,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "f40b1aff-7f66-44e4-aad0-f717f3d059c2",
-      "companyName": "Kozey Group",
-      "date": "2021-03-18T01:27:08.378Z",
-      "processedBillings": 36,
-      "totalRunningBillings": 78,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "889cfe24-637b-4cd5-a3de-c7a1a4cece9c",
-      "companyName": "VonRueden, Bergnaum and Klocko",
-      "date": "2021-03-18T12:51:27.053Z",
-      "processedBillings": 96,
-      "totalRunningBillings": 407,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "f20b7c44-5f21-437e-b626-0f790b453cc5",
-      "companyName": "Romaguera, VonRueden and Kemmer",
-      "date": "2021-03-18T06:24:06.409Z",
-      "processedBillings": 72,
-      "totalRunningBillings": 95,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "46c51f0d-af03-4cca-a1f0-578c485e3aa8",
-      "companyName": "Hettinger - Douglas",
-      "date": "2021-03-18T12:26:17.139Z",
-      "processedBillings": 79,
-      "totalRunningBillings": 686,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "ad901daf-7706-4379-917f-752d82b68e26",
-      "companyName": "Howe - Aufderhar",
-      "date": "2021-03-18T20:03:56.721Z",
-      "processedBillings": 11,
-      "totalRunningBillings": 16,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "528db60e-5657-4488-a2bb-9fef911fdb59",
-      "companyName": "Hand Inc",
-      "date": "2021-03-18T20:41:46.550Z",
-      "processedBillings": 49,
-      "totalRunningBillings": 888,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "ebe4e311-6f0c-4c9a-b29b-8fa5d00bb104",
-      "companyName": "Walsh Inc",
-      "date": "2021-03-18T04:45:53.064Z",
-      "processedBillings": 1,
-      "totalRunningBillings": 37,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "83c231a9-f56d-45e4-8219-7c932f3e7bb7",
-      "companyName": "Steuber, Turner and Daugherty",
-      "date": "2021-03-18T18:08:09.912Z",
-      "processedBillings": 77,
-      "totalRunningBillings": 704,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "c0cfe936-4449-4283-bee4-9ac062149b76",
-      "companyName": "Hegmann Group",
-      "date": "2021-03-18T03:31:26.796Z",
-      "processedBillings": 16,
-      "totalRunningBillings": 810,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "d91178e9-9c2f-4f8d-8bd1-20510c04e2b4",
-      "companyName": "Emard, Cummings and Gorczany",
-      "date": "2021-03-18T14:41:30.302Z",
-      "processedBillings": 89,
-      "totalRunningBillings": 401,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "0626df96-7f06-4a85-9db9-595f6af1f92b",
-      "companyName": "Rice, Ankunding and Berge",
-      "date": "2021-03-18T18:01:55.668Z",
-      "processedBillings": 100,
-      "totalRunningBillings": 829,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "bc2e1128-0c82-4558-9aa2-85fec7d4fd49",
-      "companyName": "McGlynn Inc",
-      "date": "2021-03-18T12:49:19.250Z",
-      "processedBillings": 68,
-      "totalRunningBillings": 778,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "f291db68-cc4c-4715-8e27-a4d7450d0b97",
-      "companyName": "Parker Group",
-      "date": "2021-03-18T19:17:32.571Z",
-      "processedBillings": 93,
-      "totalRunningBillings": 740,
-      "batchBillingType": "Mensalidade"
-    },
-    {
-      "id": "97559d36-4d96-4698-a6d0-da5b36fb4eb8",
-      "companyName": "Armstrong, Runolfsdottir and McLaughlin",
-      "date": "2021-03-18T01:31:06.368Z",
-      "processedBillings": 17,
-      "totalRunningBillings": 705,
-      "batchBillingType": "Mensalidade"
-    }
-  ],
-  "message": "Ação Efetuada com Sucesso",
-  "typeResult": 1
+  "batches": {
+    "content": [
+      {
+        "id": "4c937949-53df-49ba-b565-78ae1c501224",
+        "companyName": "Mraz - Pacocha",
+        "date": "2021-03-18T13:48:49.905Z",
+        "processedBillings": 42,
+        "totalRunningBillings": 714,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "2efddcf6-bbda-4f6e-a67a-3628cfebee66",
+        "companyName": "Fahey LLC",
+        "date": "2021-03-18T00:43:08.730Z",
+        "processedBillings": 83,
+        "totalRunningBillings": 861,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "60c45e04-aeda-4b18-83b1-cc5986f18df4",
+        "companyName": "Padberg Group",
+        "date": "2021-03-18T20:43:40.388Z",
+        "processedBillings": 45,
+        "totalRunningBillings": 696,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "fd1aef48-b074-4505-9e77-dc365c011f25",
+        "companyName": "O'Reilly - Schaefer",
+        "date": "2021-03-18T20:13:07.971Z",
+        "processedBillings": 26,
+        "totalRunningBillings": 909,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "48593b06-ea2f-4a50-985e-fa42b72ad7fc",
+        "companyName": "Kshlerin - Baumbach",
+        "date": "2021-03-18T10:03:41.490Z",
+        "processedBillings": 93,
+        "totalRunningBillings": 213,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "35d1e3a2-c5c5-421d-9df3-92d82f18ec1e",
+        "companyName": "Schamberger, Olson and Cassin",
+        "date": "2021-03-18T15:00:13.601Z",
+        "processedBillings": 78,
+        "totalRunningBillings": 832,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "f40b1aff-7f66-44e4-aad0-f717f3d059c2",
+        "companyName": "Kozey Group",
+        "date": "2021-03-18T01:27:08.378Z",
+        "processedBillings": 36,
+        "totalRunningBillings": 78,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "889cfe24-637b-4cd5-a3de-c7a1a4cece9c",
+        "companyName": "VonRueden, Bergnaum and Klocko",
+        "date": "2021-03-18T12:51:27.053Z",
+        "processedBillings": 96,
+        "totalRunningBillings": 407,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "f20b7c44-5f21-437e-b626-0f790b453cc5",
+        "companyName": "Romaguera, VonRueden and Kemmer",
+        "date": "2021-03-18T06:24:06.409Z",
+        "processedBillings": 72,
+        "totalRunningBillings": 95,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "46c51f0d-af03-4cca-a1f0-578c485e3aa8",
+        "companyName": "Hettinger - Douglas",
+        "date": "2021-03-18T12:26:17.139Z",
+        "processedBillings": 79,
+        "totalRunningBillings": 686,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "ad901daf-7706-4379-917f-752d82b68e26",
+        "companyName": "Howe - Aufderhar",
+        "date": "2021-03-18T20:03:56.721Z",
+        "processedBillings": 11,
+        "totalRunningBillings": 16,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "528db60e-5657-4488-a2bb-9fef911fdb59",
+        "companyName": "Hand Inc",
+        "date": "2021-03-18T20:41:46.550Z",
+        "processedBillings": 49,
+        "totalRunningBillings": 888,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "ebe4e311-6f0c-4c9a-b29b-8fa5d00bb104",
+        "companyName": "Walsh Inc",
+        "date": "2021-03-18T04:45:53.064Z",
+        "processedBillings": 1,
+        "totalRunningBillings": 37,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "83c231a9-f56d-45e4-8219-7c932f3e7bb7",
+        "companyName": "Steuber, Turner and Daugherty",
+        "date": "2021-03-18T18:08:09.912Z",
+        "processedBillings": 77,
+        "totalRunningBillings": 704,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "c0cfe936-4449-4283-bee4-9ac062149b76",
+        "companyName": "Hegmann Group",
+        "date": "2021-03-18T03:31:26.796Z",
+        "processedBillings": 16,
+        "totalRunningBillings": 810,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "d91178e9-9c2f-4f8d-8bd1-20510c04e2b4",
+        "companyName": "Emard, Cummings and Gorczany",
+        "date": "2021-03-18T14:41:30.302Z",
+        "processedBillings": 89,
+        "totalRunningBillings": 401,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "0626df96-7f06-4a85-9db9-595f6af1f92b",
+        "companyName": "Rice, Ankunding and Berge",
+        "date": "2021-03-18T18:01:55.668Z",
+        "processedBillings": 100,
+        "totalRunningBillings": 829,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "bc2e1128-0c82-4558-9aa2-85fec7d4fd49",
+        "companyName": "McGlynn Inc",
+        "date": "2021-03-18T12:49:19.250Z",
+        "processedBillings": 68,
+        "totalRunningBillings": 778,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "f291db68-cc4c-4715-8e27-a4d7450d0b97",
+        "companyName": "Parker Group",
+        "date": "2021-03-18T19:17:32.571Z",
+        "processedBillings": 93,
+        "totalRunningBillings": 740,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "97559d36-4d96-4698-a6d0-da5b36fb4eb8",
+        "companyName": "Armstrong, Runolfsdottir and McLaughlin",
+        "date": "2021-03-18T01:31:06.368Z",
+        "processedBillings": 17,
+        "totalRunningBillings": 705,
+        "batchBillingType": "Mensalidade"
+      }
+    ],
+    "message": "Ação Efetuada com Sucesso",
+    "typeResult": 1
+  }
 }

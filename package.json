@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "faker": "^5.4.0"
+    "faker": "^5.4.0",
+    "faker-br": "^0.4.1"
   },
   "devDependencies": {
     "json-server": "^0.16.3"

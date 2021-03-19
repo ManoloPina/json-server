@@ -1,7 +1,15 @@
 const faker = require('faker');
 const fakerBr = require('faker-br');
 
-module.exports = () => {
+// server.js
+const jsonServer = require('json-server')
+const server = jsonServer.create()
+const router = jsonServer.router('db.json')
+const middlewares = jsonServer.defaults()
+const port = process.env.PORT || 4000;
+server.use(middlewares)
+server.use(router)
+server.listen(port, () => {
   const data = { batches: {content: [], message: "Ação Efetuada com Sucesso", typeResult: 1}, batch: {
     content: {
       id: faker.random.uuid(), 
@@ -35,5 +43,5 @@ module.exports = () => {
       batchBillingType: faker.helpers.randomize(["Mensalidade", "Anual"]),
     })
   }
-  return data
-}
+  return data;
+})

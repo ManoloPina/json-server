@@ -4,8 +4,8 @@ const fakerBr = require('faker-br');
 // server.js
 const jsonServer = require('json-server')
 const server = jsonServer.create()
-const middlewares = jsonServer.defaults()
 const port = process.env.PORT || 4000;
+
 server.listen(port, () => {
   const data = { batches: {content: [], message: "Ação Efetuada com Sucesso", typeResult: 1}, batch: {
     content: {

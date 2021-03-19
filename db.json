@@ -2,163 +2,163 @@
   "batches": {
     "content": [
       {
-        "id": "096a698a-91e1-4174-ab8a-b86d1f2f2f8c",
-        "companyName": "K2P9A",
-        "date": "2021-03-18T17:43:18.995Z",
-        "processedBillings": 158,
-        "totalRunningBillings": 829,
-        "batchBillingType": "Anual"
-      },
-      {
-        "id": "ca50ea21-de79-470b-85da-a8b5f383932a",
-        "companyName": "W5V3S",
-        "date": "2021-03-18T11:22:58.595Z",
-        "processedBillings": 97,
-        "totalRunningBillings": 724,
+        "id": "deb58b9b-a119-4260-9931-5c4ec2d53353",
+        "companyName": "TDOV",
+        "date": "2021-03-19T11:13:34.975Z",
+        "processedBillings": 500,
+        "totalRunningBillings": 962,
         "batchBillingType": "Mensalidade"
       },
       {
-        "id": "c30253c9-09e0-4d4e-bb32-a21f5935141e",
-        "companyName": "G1Z4A",
-        "date": "2021-03-18T04:05:35.120Z",
-        "processedBillings": 375,
-        "totalRunningBillings": 840,
+        "id": "66709b05-926b-476a-bd8c-5bfda12948af",
+        "companyName": "LRZA",
+        "date": "2021-03-18T20:33:10.840Z",
+        "processedBillings": 380,
+        "totalRunningBillings": 543,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "b373cf12-ead5-4a82-824a-06e58d7baaaf",
+        "companyName": "MGDF",
+        "date": "2021-03-19T14:27:12.734Z",
+        "processedBillings": 491,
+        "totalRunningBillings": 678,
         "batchBillingType": "Anual"
       },
       {
-        "id": "38c9b636-965f-45b6-ae07-39ca5dfd35dc",
-        "companyName": "Z5F7G",
-        "date": "2021-03-18T10:55:43.261Z",
+        "id": "fd415bd2-2e4e-4148-94e2-fbe6b0368b4b",
+        "companyName": "AKEH",
+        "date": "2021-03-19T05:07:27.511Z",
         "processedBillings": 229,
-        "totalRunningBillings": 524,
+        "totalRunningBillings": 741,
         "batchBillingType": "Mensalidade"
       },
       {
-        "id": "7ed11a20-87cd-464f-b5bf-4cb92fd50ee7",
-        "companyName": "A6G1R",
-        "date": "2021-03-18T05:49:31.537Z",
-        "processedBillings": 15,
-        "totalRunningBillings": 731,
+        "id": "21aa62e7-1603-427e-a38c-ad538e146c13",
+        "companyName": "CBJS",
+        "date": "2021-03-19T15:01:21.386Z",
+        "processedBillings": 194,
+        "totalRunningBillings": 611,
         "batchBillingType": "Anual"
       },
       {
-        "id": "9409f227-ab5d-4a46-a17b-4d1fc6428b9e",
-        "companyName": "A3L9K",
-        "date": "2021-03-18T00:39:45.906Z",
-        "processedBillings": 492,
-        "totalRunningBillings": 567,
-        "batchBillingType": "Mensalidade"
-      },
-      {
-        "id": "38fad5c9-a51d-4c5d-bc0a-516b4eaec367",
-        "companyName": "D0N9Y",
-        "date": "2021-03-18T01:50:56.658Z",
-        "processedBillings": 153,
-        "totalRunningBillings": 552,
+        "id": "014bec1f-9b7b-42c4-bdd8-c484a5554d62",
+        "companyName": "LIOI",
+        "date": "2021-03-19T02:28:20.584Z",
+        "processedBillings": 269,
+        "totalRunningBillings": 581,
         "batchBillingType": "Anual"
       },
       {
-        "id": "06091f0c-eaf9-4bbd-bf3e-e8a678e67dff",
-        "companyName": "N5C7G",
-        "date": "2021-03-18T15:05:49.591Z",
-        "processedBillings": 462,
-        "totalRunningBillings": 565,
+        "id": "5bcec4c9-8b32-4f96-96f2-813446811f9f",
+        "companyName": "TFGF",
+        "date": "2021-03-18T22:12:10.190Z",
+        "processedBillings": 438,
+        "totalRunningBillings": 676,
         "batchBillingType": "Mensalidade"
       },
       {
-        "id": "f7fbe70a-71db-4e66-84b1-da86501a03c4",
-        "companyName": "V3I7D",
-        "date": "2021-03-18T01:49:06.836Z",
-        "processedBillings": 487,
-        "totalRunningBillings": 629,
+        "id": "50f8f372-125b-48e6-a17e-2fba9f73fa9a",
+        "companyName": "VMPP",
+        "date": "2021-03-19T07:41:21.163Z",
+        "processedBillings": 319,
+        "totalRunningBillings": 902,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "1b93c5ca-7be8-4417-a961-d806be5038b0",
+        "companyName": "GGHM",
+        "date": "2021-03-18T21:34:47.447Z",
+        "processedBillings": 209,
+        "totalRunningBillings": 683,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "6d7bf35d-cdd5-4695-a1c8-b8a0eb6751b4",
+        "companyName": "MDCX",
+        "date": "2021-03-19T08:54:45.220Z",
+        "processedBillings": 247,
+        "totalRunningBillings": 633,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "01df4853-3757-40d5-b988-0c9dada86d31",
+        "companyName": "WEAR",
+        "date": "2021-03-19T14:44:26.357Z",
+        "processedBillings": 211,
+        "totalRunningBillings": 938,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "858b6eb4-1aec-4f02-a92f-6ccbe445487b",
+        "companyName": "ADNK",
+        "date": "2021-03-19T11:07:43.212Z",
+        "processedBillings": 277,
+        "totalRunningBillings": 965,
         "batchBillingType": "Anual"
       },
       {
-        "id": "0e8ea58e-6c47-437d-b55c-467c0e17efa5",
-        "companyName": "M6D8C",
-        "date": "2021-03-18T18:35:19.245Z",
-        "processedBillings": 135,
-        "totalRunningBillings": 609,
+        "id": "0401f778-6086-4e8a-a154-2434840dc3b7",
+        "companyName": "PKNK",
+        "date": "2021-03-19T03:46:14.654Z",
+        "processedBillings": 249,
+        "totalRunningBillings": 805,
         "batchBillingType": "Mensalidade"
       },
       {
-        "id": "b99f4f3b-5b32-4f36-9455-9365b3315088",
-        "companyName": "G2T5L",
-        "date": "2021-03-18T09:00:59.380Z",
-        "processedBillings": 244,
-        "totalRunningBillings": 984,
+        "id": "db8e0f78-0bb1-40e6-9d1d-dff6a1c4e437",
+        "companyName": "TATC",
+        "date": "2021-03-19T09:23:42.058Z",
+        "processedBillings": 428,
+        "totalRunningBillings": 853,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "2d18c165-2ec2-473d-8af8-3cbc078e1ca1",
+        "companyName": "DXTK",
+        "date": "2021-03-19T04:12:12.912Z",
+        "processedBillings": 500,
+        "totalRunningBillings": 707,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "ec7c561c-7bfc-4333-be09-61f2bde043bc",
+        "companyName": "CFSG",
+        "date": "2021-03-18T18:48:23.053Z",
+        "processedBillings": 427,
+        "totalRunningBillings": 981,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "1d6dd24b-1746-42ec-b4c4-fe8445406f34",
+        "companyName": "SMQE",
+        "date": "2021-03-19T11:47:59.884Z",
+        "processedBillings": 56,
+        "totalRunningBillings": 751,
+        "batchBillingType": "Mensalidade"
+      },
+      {
+        "id": "ffc679d7-b63e-4239-92e8-022eba645d80",
+        "companyName": "GOOJ",
+        "date": "2021-03-19T15:05:09.918Z",
+        "processedBillings": 497,
+        "totalRunningBillings": 537,
         "batchBillingType": "Anual"
       },
       {
-        "id": "efb3cec8-0978-4413-9457-24035accd4af",
-        "companyName": "Q6Q7R",
-        "date": "2021-03-18T12:46:31.039Z",
-        "processedBillings": 361,
-        "totalRunningBillings": 871,
+        "id": "c9146a20-034b-41dd-9405-7b54835af7ec",
+        "companyName": "WWQG",
+        "date": "2021-03-18T20:00:54.749Z",
+        "processedBillings": 314,
+        "totalRunningBillings": 619,
         "batchBillingType": "Mensalidade"
       },
       {
-        "id": "d1308611-2493-4297-9a18-0a8e8179bb3a",
-        "companyName": "C3A4U",
-        "date": "2021-03-18T08:10:34.986Z",
-        "processedBillings": 117,
-        "totalRunningBillings": 876,
-        "batchBillingType": "Anual"
-      },
-      {
-        "id": "cfe3a34c-bbc6-417f-b7af-4f5a501a7e7f",
-        "companyName": "J7P3V",
-        "date": "2021-03-18T17:50:54.043Z",
-        "processedBillings": 422,
-        "totalRunningBillings": 698,
-        "batchBillingType": "Mensalidade"
-      },
-      {
-        "id": "32470af4-70b4-4b5e-b709-bb97c82c31f1",
-        "companyName": "D4S6H",
-        "date": "2021-03-18T11:36:27.081Z",
-        "processedBillings": 178,
-        "totalRunningBillings": 868,
-        "batchBillingType": "Mensalidade"
-      },
-      {
-        "id": "6f025974-5989-4dbd-ba1e-3cde54370d30",
-        "companyName": "E3G8C",
-        "date": "2021-03-18T16:57:17.350Z",
-        "processedBillings": 373,
-        "totalRunningBillings": 976,
-        "batchBillingType": "Mensalidade"
-      },
-      {
-        "id": "8641a269-e2b7-40cb-88ed-2527c198c26d",
-        "companyName": "P6D0W",
-        "date": "2021-03-18T20:31:44.430Z",
-        "processedBillings": 204,
-        "totalRunningBillings": 870,
-        "batchBillingType": "Mensalidade"
-      },
-      {
-        "id": "0308d24c-a32a-4a98-b88c-ceae0fc5eb10",
-        "companyName": "W9Y8K",
-        "date": "2021-03-18T08:44:26.799Z",
-        "processedBillings": 46,
-        "totalRunningBillings": 988,
-        "batchBillingType": "Mensalidade"
-      },
-      {
-        "id": "f67621b9-c68d-4d38-8a38-a4e334a04b79",
-        "companyName": "I3R1S",
-        "date": "2021-03-18T16:30:09.292Z",
-        "processedBillings": 362,
-        "totalRunningBillings": 660,
-        "batchBillingType": "Anual"
-      },
-      {
-        "id": "ed05db9f-8ecb-4b89-b7ef-510192f4f5dc",
-        "companyName": "D1J4G",
-        "date": "2021-03-18T18:43:59.961Z",
-        "processedBillings": 328,
-        "totalRunningBillings": 728,
+        "id": "bf672cc5-8f41-42e8-a98d-a78100daf2b3",
+        "companyName": "KCON",
+        "date": "2021-03-18T16:00:33.310Z",
+        "processedBillings": 6,
+        "totalRunningBillings": 944,
         "batchBillingType": "Mensalidade"
       }
     ],
@@ -167,171 +167,171 @@
   },
   "batch": {
     "content": {
-      "id": "e55193e5-cf04-4315-a0ef-35b2254a6b7a",
-      "companyName": "CIKK",
-      "date": "2021-03-18T17:25:39.290Z",
-      "processedBillings": 199,
-      "totalRunningBillings": 748,
-      "batchBillingType": "Mensalidade",
+      "id": "e8ebd130-3c08-4255-9770-073bab8c5d59",
+      "companyName": "FDKR",
+      "date": "2021-03-18T18:07:03.920Z",
+      "processedBillings": 226,
+      "totalRunningBillings": 536,
+      "batchBillingType": "Anual",
       "billings": [
         {
-          "clientName": "QKYK",
-          "document": "85862168362",
-          "contractCode": "ULAD8657",
-          "billingCode": "ILSU9279",
-          "rpsCode": "YNNL6797",
+          "clientName": "HMEV",
+          "document": "52034887549",
+          "contractCode": "AERG8798",
+          "billingCode": "BEER6725",
+          "rpsCode": "JFPS4638",
           "batchBillingType": "Anual"
         },
         {
-          "clientName": "QZTK",
-          "document": "32727267568",
-          "contractCode": "SCKA5898",
-          "billingCode": "NAYE9075",
-          "rpsCode": "KMFD1773",
-          "batchBillingType": "Mensalidade"
-        },
-        {
-          "clientName": "FYBX",
-          "document": "83770376384768",
-          "contractCode": "ELZO1969",
-          "billingCode": "LNUA4418",
-          "rpsCode": "DKSG5193",
-          "batchBillingType": "Mensalidade"
-        },
-        {
-          "clientName": "VHGB",
-          "document": "06442137104",
-          "contractCode": "IKQK7607",
-          "billingCode": "ZLIU9019",
-          "rpsCode": "IUQR1372",
+          "clientName": "QETS",
+          "document": "30272472837870",
+          "contractCode": "UBVK8788",
+          "billingCode": "DIDD7268",
+          "rpsCode": "ZPCF5016",
           "batchBillingType": "Anual"
         },
         {
-          "clientName": "ETLH",
-          "document": "69438451447",
-          "contractCode": "VCUG5818",
-          "billingCode": "IUNU2226",
-          "rpsCode": "AJXK0390",
+          "clientName": "ZTFD",
+          "document": "57663041245021",
+          "contractCode": "TTGM8824",
+          "billingCode": "NAFK6023",
+          "rpsCode": "QGNO0961",
           "batchBillingType": "Mensalidade"
         },
         {
-          "clientName": "UETK",
-          "document": "46367781382",
-          "contractCode": "BFJP5468",
-          "billingCode": "QJYX4350",
-          "rpsCode": "PXHB6638",
+          "clientName": "ZSGY",
+          "document": "46748533899",
+          "contractCode": "JUYH5560",
+          "billingCode": "XUPP6500",
+          "rpsCode": "GAEM3017",
           "batchBillingType": "Mensalidade"
         },
         {
-          "clientName": "TXEB",
-          "document": "74212146157621",
-          "contractCode": "VINU2935",
-          "billingCode": "PPGC7415",
-          "rpsCode": "WNZH7994",
+          "clientName": "GLXR",
+          "document": "77541345230778",
+          "contractCode": "CUWL9616",
+          "billingCode": "YSMJ7381",
+          "rpsCode": "IPSO9185",
           "batchBillingType": "Mensalidade"
         },
         {
-          "clientName": "HLJU",
-          "document": "02134429658",
-          "contractCode": "REKE8241",
-          "billingCode": "CMAX1169",
-          "rpsCode": "PGXH8877",
+          "clientName": "RPSI",
+          "document": "56447379939",
+          "contractCode": "LURC6625",
+          "billingCode": "HYSK9670",
+          "rpsCode": "YVPT7427",
           "batchBillingType": "Mensalidade"
         },
         {
-          "clientName": "GLXU",
-          "document": "93124015134",
-          "contractCode": "SQIL1424",
-          "billingCode": "NERP1753",
-          "rpsCode": "HCFQ9663",
+          "clientName": "PWXV",
+          "document": "65008438736680",
+          "contractCode": "YZHI0499",
+          "billingCode": "VKHR6650",
+          "rpsCode": "SLVV3903",
           "batchBillingType": "Mensalidade"
         },
         {
-          "clientName": "KNPY",
-          "document": "48727816435543",
-          "contractCode": "OZJR2494",
-          "billingCode": "TNOS9033",
-          "rpsCode": "KHEA1635",
+          "clientName": "IQDR",
+          "document": "86443643174700",
+          "contractCode": "TRUM3242",
+          "billingCode": "IMRO2237",
+          "rpsCode": "ZKFO0102",
           "batchBillingType": "Mensalidade"
         },
         {
-          "clientName": "QSVS",
-          "document": "80422151043305",
-          "contractCode": "YIMA4355",
-          "billingCode": "VSXP6438",
-          "rpsCode": "MCHO5888",
+          "clientName": "FYCE",
+          "document": "04764455315",
+          "contractCode": "GTYG9009",
+          "billingCode": "MDJF2248",
+          "rpsCode": "TZGR6141",
           "batchBillingType": "Mensalidade"
         },
         {
-          "clientName": "NYET",
-          "document": "27237566332433",
-          "contractCode": "AWYR4076",
-          "billingCode": "PBOX8836",
-          "rpsCode": "ANCY3053",
-          "batchBillingType": "Mensalidade"
-        },
-        {
-          "clientName": "KTFS",
-          "document": "67236867318715",
-          "contractCode": "TFCT8335",
-          "billingCode": "RZMT8806",
-          "rpsCode": "DEJJ1658",
+          "clientName": "YWWI",
+          "document": "87869404810",
+          "contractCode": "CBPJ5075",
+          "billingCode": "ILSL7576",
+          "rpsCode": "HMRQ5759",
           "batchBillingType": "Anual"
         },
         {
-          "clientName": "UDOA",
-          "document": "22285629125",
-          "contractCode": "IBKI4351",
-          "billingCode": "QPLE8884",
-          "rpsCode": "XURZ9916",
-          "batchBillingType": "Mensalidade"
-        },
-        {
-          "clientName": "NCXD",
-          "document": "72573054448883",
-          "contractCode": "OZHY7742",
-          "billingCode": "WZEV2616",
-          "rpsCode": "RBKZ2666",
+          "clientName": "GMJN",
+          "document": "13373167643814",
+          "contractCode": "NRZK9698",
+          "billingCode": "ODVJ8029",
+          "rpsCode": "PFDP5347",
           "batchBillingType": "Anual"
         },
         {
-          "clientName": "WTAW",
-          "document": "46613136409",
-          "contractCode": "IDMT9852",
-          "billingCode": "JIVW4646",
-          "rpsCode": "AYQQ4995",
+          "clientName": "GZUY",
+          "document": "06513263334631",
+          "contractCode": "VVCH7191",
+          "billingCode": "JVQS9723",
+          "rpsCode": "NWDO1953",
           "batchBillingType": "Anual"
         },
         {
-          "clientName": "VLAW",
-          "document": "47433404157899",
-          "contractCode": "SUUV7358",
-          "billingCode": "ESNO2543",
-          "rpsCode": "KBVG0228",
+          "clientName": "OXIE",
+          "document": "46006251875393",
+          "contractCode": "CPIC0476",
+          "billingCode": "UBGH2700",
+          "rpsCode": "ENZJ2476",
           "batchBillingType": "Anual"
         },
         {
-          "clientName": "LCCN",
-          "document": "18786562797",
-          "contractCode": "OFOL0556",
-          "billingCode": "INEG4133",
-          "rpsCode": "QXMM2617",
+          "clientName": "MUPT",
+          "document": "83478667072386",
+          "contractCode": "CWRF5356",
+          "billingCode": "GGOR4569",
+          "rpsCode": "DDTU8515",
           "batchBillingType": "Mensalidade"
         },
         {
-          "clientName": "TGBX",
-          "document": "78475852602",
-          "contractCode": "LMQT6875",
-          "billingCode": "NMJV1914",
-          "rpsCode": "BYXO7354",
+          "clientName": "ZYZH",
+          "document": "39741422822",
+          "contractCode": "AFQP2132",
+          "billingCode": "ZYAM8193",
+          "rpsCode": "YOWE4432",
           "batchBillingType": "Mensalidade"
         },
         {
-          "clientName": "SBTC",
-          "document": "10573870888",
-          "contractCode": "XFAU1020",
-          "billingCode": "HSRU2564",
-          "rpsCode": "FWMF2340",
+          "clientName": "YFZA",
+          "document": "96671433410",
+          "contractCode": "PFZJ2982",
+          "billingCode": "DQLB6207",
+          "rpsCode": "QHIO1653",
+          "batchBillingType": "Anual"
+        },
+        {
+          "clientName": "DLUO",
+          "document": "70678470600",
+          "contractCode": "CYJZ7709",
+          "billingCode": "RSGF4136",
+          "rpsCode": "RRRS1380",
+          "batchBillingType": "Mensalidade"
+        },
+        {
+          "clientName": "AJQY",
+          "document": "42843664805756",
+          "contractCode": "TAFP9428",
+          "billingCode": "SNWR1817",
+          "rpsCode": "PMBF5555",
+          "batchBillingType": "Mensalidade"
+        },
+        {
+          "clientName": "LUDG",
+          "document": "37413676786064",
+          "contractCode": "LRUX5865",
+          "billingCode": "FUHM2385",
+          "rpsCode": "YCRI1020",
+          "batchBillingType": "Anual"
+        },
+        {
+          "clientName": "EESM",
+          "document": "57446101202",
+          "contractCode": "JXAX2395",
+          "billingCode": "IDGE5070",
+          "rpsCode": "IBFG8280",
           "batchBillingType": "Mensalidade"
         }
       ]

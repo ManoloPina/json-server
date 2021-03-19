@@ -13,6 +13,7 @@ const file = require(fileName);
       totalRunningBillings: faker.random.number({min: 500, max: 1000}),
       batchBillingType: faker.helpers.randomize(["Mensalidade", "Anual"]),
       billings: [],
+      canceledBillings: faker.random.number(),
     },
     message: "Ação Efetuada com Sucesso",
     typeResult: 1,

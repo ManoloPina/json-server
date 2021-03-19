@@ -16,7 +16,7 @@ module.exports = () => {
     typeResult: 1,
   }  };
 
-  for (let i = 0; i < 20; i++) {
+  for (let i = 0; i < 10; i++) {
     data.batches.content.push({ 
       id: faker.random.uuid(), 
       companyName: faker.helpers.replaceSymbols("????"),

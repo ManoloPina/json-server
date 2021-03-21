@@ -25,14 +25,18 @@ const data = {
     typeResult: 1,
   },
   billingDetailed: {
-    id: faker.random.uuid(),
-    clientName: faker.helpers.replaceSymbols("????"),
-    document: faker.helpers.randomize([fakerBr.br.cnpj(), fakerBr.br.cpf()]),
-    contractCode: faker.helpers.replaceSymbols("????####"),
-    billingCode: faker.helpers.replaceSymbols("????####"),
-    rpsCode: faker.helpers.replaceSymbols("????####"),
-    billingType: faker.helpers.randomize(["Mensalidade", "Anual"]),
-    items: [],
+    content: {
+      id: faker.random.uuid(),
+      clientName: faker.helpers.replaceSymbols("????"),
+      document: faker.helpers.randomize([fakerBr.br.cnpj(), fakerBr.br.cpf()]),
+      contractCode: faker.helpers.replaceSymbols("????####"),
+      billingCode: faker.helpers.replaceSymbols("????####"),
+      rpsCode: faker.helpers.replaceSymbols("????####"),
+      billingType: faker.helpers.randomize(["Mensalidade", "Anual"]),
+      items: [],
+    },
+    message: "Ação Efetuada com Sucesso",
+    typeResult: 1,
   },
 };
 
@@ -57,7 +61,7 @@ for (let i = 0; i < 20; i++) {
 }
 
 for (let i = 0; i < 5; i++) {
-  data.billingDetailed.items.push({
+  data.billingDetailed.content.items.push({
     description: faker.helpers.randomize([
       "Mensalidade de Pontos",
       "Desconto",

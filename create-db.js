@@ -670,6 +670,7 @@ const data = {
       items: [],
     },
     message: "Ação efetuada com sucesso",
+    typeResult: 1,
   },
 };
 

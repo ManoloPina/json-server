@@ -656,6 +656,21 @@ const data = {
     message: "Ação efetuada com sucesso.",
     typeResult: 1,
   },
+  monthDetailed: {
+    content: {
+      id: faker.random.uuid(),
+      clientName: faker.helpers.replaceSymbols("????"),
+      document: faker.helpers.randomize([fakerBr.br.cnpj(), fakerBr.br.cpf()]),
+      contractCode: faker.helpers.replaceSymbols("????####"),
+      billingCode: faker.helpers.replaceSymbols("????####"),
+      rpsCode: faker.helpers.replaceSymbols("????####"),
+      billingType: faker.helpers.randomize(["Mensalidade", "Anual"]),
+      price: faker.commerce.price(500, 1000),
+      status: faker.helpers.randomize(["Ativo", "Inativo"]),
+      items: [],
+    },
+    message: "Ação efetuada com sucesso",
+  },
 };
 
 for (let i = 0; i < 20; i++) {
@@ -675,6 +690,16 @@ for (let i = 0; i < 20; i++) {
     billingCode: faker.helpers.replaceSymbols("????####"),
     rpsCode: faker.helpers.replaceSymbols("????####"),
     batchBillingType: faker.helpers.randomize(["Mensalidade", "Anual"]),
+  });
+
+  data.monthDetailed.content.items.push({
+    id: faker.random.uuid(),
+    clientName: faker.helpers.replaceSymbols("????"),
+    monthlyPrice: faker.commerce.price(100, 1000),
+    days: faker.random.number({ min: 1, max: 31 }),
+    chargeAmount: faker.commerce.price(100, 1000),
+    rpsCode: faker.helpers.replaceSymbols("????####"),
+    status: faker.helpers.randomize(["Ativo", "Inativo"]),
   });
 }
 

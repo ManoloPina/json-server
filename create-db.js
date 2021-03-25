@@ -721,6 +721,7 @@ for (let i = 0; i < 20; i++) {
 
   data.surplusDetailed.content.items.push({
     id: faker.random.uuid(),
+    clientName: faker.helpers.replaceSymbols("????"),
     contractedWeight: faker.commerce.price(100, 1000),
     surplusWeight: faker.commerce.price(1, 100),
     surplusPrice: faker.commerce.price(1, 10),

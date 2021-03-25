@@ -672,6 +672,22 @@ const data = {
     message: "Ação efetuada com sucesso",
     typeResult: 1,
   },
+  surplusDetailed: {
+    content: {
+      id: faker.random.uuid(),
+      clientName: faker.helpers.replaceSymbols("????"),
+      document: faker.helpers.randomize([fakerBr.br.cnpj(), fakerBr.br.cpf()]),
+      contractCode: faker.helpers.replaceSymbols("????####"),
+      billingCode: faker.helpers.replaceSymbols("????####"),
+      rpsCode: faker.helpers.replaceSymbols("????####"),
+      billingType: faker.helpers.randomize(["Mensalidade", "Anual"]),
+      price: faker.commerce.price(500, 1000),
+      status: faker.helpers.randomize(["Ativo", "Inativo"]),
+      items: [],
+    },
+    message: "Ação efetuada com sucesso",
+    typeResult: 1,
+  },
 };
 
 for (let i = 0; i < 20; i++) {
@@ -700,6 +716,16 @@ for (let i = 0; i < 20; i++) {
     days: faker.random.number({ min: 1, max: 31 }),
     chargeAmount: faker.commerce.price(100, 1000),
     rpsCode: faker.helpers.replaceSymbols("????####"),
+    status: faker.helpers.randomize(["Ativo", "Inativo"]),
+  });
+
+  data.surplusDetailed.content.items.push({
+    id: faker.random.uuid(),
+    contractedWeight: faker.commerce.price(100, 1000),
+    surplusWeight: faker.commerce.price(1, 100),
+    surplusPrice: faker.commerce.price(1, 10),
+    rpsCode: faker.helpers.replaceSymbols("######"),
+    rpsCode: faker.helpers.replaceSymbols("######"),
     status: faker.helpers.randomize(["Ativo", "Inativo"]),
   });
 }

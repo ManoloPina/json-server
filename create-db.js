@@ -707,6 +707,7 @@ for (let i = 0; i < 20; i++) {
     billingCode: faker.helpers.replaceSymbols("????####"),
     rpsCode: faker.helpers.replaceSymbols("????####"),
     batchBillingType: faker.helpers.randomize(["Mensalidade", "Anual"]),
+    createdAt: faker.date.recent(),
   });
 
   data.monthDetailed.content.items.push({

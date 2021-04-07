@@ -701,6 +701,7 @@ for (let i = 0; i < 20; i++) {
   });
 
   data.batch.content.billings.push({
+    id: faker.random.uuid(),
     clientName: faker.helpers.replaceSymbols("????"),
     document: faker.helpers.randomize([fakerBr.br.cnpj(), fakerBr.br.cpf()]),
     contractCode: faker.helpers.replaceSymbols("????####"),

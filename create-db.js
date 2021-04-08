@@ -715,6 +715,7 @@ for (let i = 0; i < 20; i++) {
   data.monthDetailed.content.items.push({
     id: faker.random.uuid(),
     clientName: faker.helpers.replaceSymbols("????"),
+    document: faker.helpers.randomize([fakerBr.br.cnpj(), fakerBr.br.cpf()]),
     monthlyPrice: faker.commerce.price(100, 1000),
     days: faker.random.number({ min: 1, max: 31 }),
     chargeAmount: faker.commerce.price(100, 1000),
@@ -725,6 +726,7 @@ for (let i = 0; i < 20; i++) {
   data.surplusDetailed.content.items.push({
     id: faker.random.uuid(),
     clientName: faker.helpers.replaceSymbols("????"),
+    document: faker.helpers.randomize([fakerBr.br.cnpj(), fakerBr.br.cpf()]),
     contractedWeight: faker.commerce.price(100, 1000),
     surplusWeight: faker.commerce.price(1, 100),
     surplusPrice: faker.commerce.price(1, 10),
